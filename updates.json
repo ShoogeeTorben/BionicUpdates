@@ -3,14 +3,14 @@
         {
             "type": "spiffs",
             "version": "2.3",
-            "url": "https://festo.shoogee.com/firmware/bionic_kit.spiffs.bin",
-            "md5": "9c08a247a12a6525551f7ffccad0062c"
+            "url": "https://github.com/ShoogeeTorben/BionicUpdates/blob/main/bionic_kit.spiffs.bin?raw=true",
+            "md5": "ad8c1b7ef38277d98b74cb1b969a05c8"
         },
         {
             "type": "app",
             "version": "2.3",
-            "url": "https://festo.shoogee.com/firmware/bionic_kit.ino.esp32.bin",
-            "md5": "e8f0f4c2a5497c22c60a213b675a06c2"
+            "url": "https://github.com/ShoogeeTorben/BionicUpdates/blob/main/bionic_kit.ino.esp32.bin?raw=true",
+            "md5": "a72105ddb700f8f7a95a18dc6d5e2879"
         }
     ]
 }
