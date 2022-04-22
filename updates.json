@@ -1,0 +1,17 @@
+{
+    "updates": [
+        {
+            "type": "spiffs",
+            "version": "2.3",
+            "url": "https://festo.shoogee.com/firmware/bionic_kit.spiffs.bin",
+            "md5": "9c08a247a12a6525551f7ffccad0062c"
+        },
+        {
+            "type": "app",
+            "version": "2.3",
+            "url": "https://festo.shoogee.com/firmware/bionic_kit.ino.esp32.bin",
+            "md5": "e8f0f4c2a5497c22c60a213b675a06c2"
+        }
+    ]
+}
+
